@@ -1,4 +1,4 @@
-> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.html.am](https://www.html.am/reference/html-special-characters.cfm)
+# HTML special characters
 
 This page contains a list of HTML special characters. In HTML, special characters are typically those that can't be easily typed into a keyboard or may cause display issues if typed or pasted into a web page.
 
