@@ -8,6 +8,6 @@
 ### Tables
 [Tables Generator](https://www.tablesgenerator.com/latex_tables)
 ### Bibtex tidy
-[BibTeX Tidy](file:///C:/Users/stcik/scire/softwares/bibtex-tidy-master/docs/index.html)
+[BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/)
 ### Plotting
 [TeXample](https://texample.net/)
